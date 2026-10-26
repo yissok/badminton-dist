@@ -1,0 +1,26 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1",
+  "app": "badminton",
+  "global": "__sveltekit_n42tp0",
+  "start": "_app/immutable/entry/start.fYv-ND5a.js",
+  "appEntry": "_app/immutable/entry/app.BClCxN7b.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/entry/start.fYv-ND5a.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/CsJG99lO.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/BsM0OySV.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/B9Rus-d-.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/entry/app.BClCxN7b.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/DAuG53ZC.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/DrchYHSh.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/CstZtZUM.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/chunks/DJZEeEdW.js",
+    "https://yissok.github.io/badminton-dist/releases/47662a9c57f43ac02705700f4f942e90363eac1d-40299895634-1/_app/immutable/nodes/0.D1818X93.js"
+  ],
+  "social": {
+    "title": "Badminton",
+    "description": "An interactive website created with Project Factory."
+  }
+}
