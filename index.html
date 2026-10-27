@@ -7,32 +7,36 @@
       try {
         if (localStorage.getItem('courtside-font') === 'pixel') document.documentElement.dataset.font = 'pixel';
       } catch { /* Use Arial when browser storage is unavailable. */ }
+      try {
+        document.documentElement.dataset.descriptions = localStorage.getItem('courtside-descriptions') === 'show' ? 'show' : 'hide';
+      } catch { /* Descriptions are hidden by default. */ }
     </script>
-    <link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/entry/start.DjKllBub.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/CsJG99lO.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/BsM0OySV.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/D3kFsGII.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/entry/app.BAGhWcGc.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/DAuG53ZC.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/DrchYHSh.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/CstZtZUM.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/chunks/DJZEeEdW.js" rel="modulepreload">
-		<link href="https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/nodes/0.D1818X93.js" rel="modulepreload">
+    <link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/entry/start.DUax51Vj.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/CYA93DRS.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/qkYiT14D.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/D9ER-Jkl.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/entry/app.DxUDb70o.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/Cj-Vr0hU.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/C-4QCGVy.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/l-t8tIcG.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/CO4Jq3Dq.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/nodes/0.BaBXm_5l.js" rel="modulepreload">
+		<link href="https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/chunks/BLtvMiNb.js" rel="modulepreload">
 		
   </head>
   <body data-sveltekit-preload-data="hover"><div style="display: contents">
 			<script>
 				{
-					__sveltekit_1pwxau2 = {
+					__sveltekit_1ghg9a5 = {
 						base: "/badminton-dist",
-						assets: "https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1"
+						assets: "https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1"
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/entry/start.DjKllBub.js"),
-						import("https://yissok.github.io/badminton-dist/releases/385609391b72a3a118d152344827af20e96350fb-40327754181-1/_app/immutable/entry/app.BAGhWcGc.js")
+						import("https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/entry/start.DUax51Vj.js"),
+						import("https://yissok.github.io/badminton-dist/releases/4e8ee649ddae8dfe5e02834e2b2c38e1fc03ad2d-40576900646-1/_app/immutable/entry/app.DxUDb70o.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
