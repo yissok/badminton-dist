@@ -1,0 +1,27 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1",
+  "app": "badminton",
+  "global": "__sveltekit_y8v9mh",
+  "start": "_app/immutable/entry/start.bZAxwQlZ.js",
+  "appEntry": "_app/immutable/entry/app.DCLiIxRi.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/entry/start.bZAxwQlZ.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/BfUsmFGi.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/RBBN6EeU.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/C8Uwqzya.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/entry/app.DCLiIxRi.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/BIafzNLh.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/c7kBCMh8.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/CYrxIHXf.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/Y5VOymFM.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/nodes/0.Cfi5kRVE.js",
+    "https://yissok.github.io/badminton-dist/releases/f62bd01d8e7d8268b4bced6758ff2e858f231b43-40700730034-1/_app/immutable/chunks/BGAE_MAd.js"
+  ],
+  "social": {
+    "title": "Badminton",
+    "description": "An interactive website created with Project Factory."
+  }
+}
