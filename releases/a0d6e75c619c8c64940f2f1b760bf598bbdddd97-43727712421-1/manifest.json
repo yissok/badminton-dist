@@ -1,0 +1,27 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1",
+  "app": "badminton",
+  "global": "__sveltekit_1vu27ro",
+  "start": "_app/immutable/entry/start.CtJ3L4Y2.js",
+  "appEntry": "_app/immutable/entry/app.DueTEPFj.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/entry/start.CtJ3L4Y2.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/BfUsmFGi.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/RBBN6EeU.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/8fO9OY_3.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/entry/app.DueTEPFj.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/BIafzNLh.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/c7kBCMh8.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/CYrxIHXf.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/Y5VOymFM.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/nodes/0.Cfi5kRVE.js",
+    "https://yissok.github.io/badminton-dist/releases/a0d6e75c619c8c64940f2f1b760bf598bbdddd97-43727712421-1/_app/immutable/chunks/BGAE_MAd.js"
+  ],
+  "social": {
+    "title": "Badminton",
+    "description": "An interactive website created with Project Factory."
+  }
+}
